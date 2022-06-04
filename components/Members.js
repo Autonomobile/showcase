@@ -4,7 +4,7 @@ import { members } from "../data/data.js";
 export const Members = () => {
 
   return (
-    <div className="w-screen min-h-screen bg-white">
+    <div className="w-screen min-h-screen bg-gray-50">
       <div className="pt-12 mx-auto flex-col">
         <div>
           <h1 className="h text-center">The Team</h1>

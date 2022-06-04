@@ -92,3 +92,9 @@ a {
   height: fit-content !important;
   /* max-height: 100px !important; */
 }
+
+.ch {
+  height: 65%;
+  width: 50%;
+  margin: auto;
+}

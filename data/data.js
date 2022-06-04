@@ -44,7 +44,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/xbox.jpeg",
+        url: "/images/test.jpg",
       },
     },
   },
@@ -55,7 +55,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/data.jpeg",
+        url: "/images/2nd.jpg",
       },
     },
   },
@@ -66,7 +66,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/ui.jpeg",
+        url: "/images/telemetry.png",
       },
     },
   },
@@ -77,7 +77,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/ai.jpg",
+        url: "/images/4th.jpg",
       },
     },
   },
@@ -88,7 +88,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/car.jpeg",
+        url: "/images/car.jpg",
       },
     },
   },
@@ -99,7 +99,7 @@ const items = [
     media: {
       type: "IMAGE",
       source: {
-        url: "/images/end.png",
+        url: "/images/vivatech.jpg",
       },
     },
   },
