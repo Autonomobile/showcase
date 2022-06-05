@@ -95,7 +95,7 @@ const items = [
   {
     title: "04/06",
     cardTitle: "Last Race",
-    cardDetailedText: "This is it! The final race. All the code is polished to perfection. The documentation is totally complete. The project is finished. All we have to do now is to win every races!",
+    cardDetailedText: "This is it! The final race. All the code is polished to perfection. The documentation is totally complete. The project is finished. All we have to do now is to win every races! We now preparing ourselves for the vivatech",
     media: {
       type: "IMAGE",
       source: {
@@ -105,4 +105,27 @@ const items = [
   },
 ];
 
-exports = module.exports = { members, items };
+const sliderData = [
+  {
+    image:
+      "/images/1.png",
+  },
+  {
+    image:
+      "/images/2.png",
+  },
+  {
+    image:
+      "/images/3.png",
+  },
+  {
+    image:
+      "/images/4.png",
+  },
+  {
+    image:
+      "/images/5.png",
+  },
+];
+
+exports = module.exports = { members, items, sliderData };

@@ -14,7 +14,7 @@ export const Timeline = () => {
   }, [width]);
 
   return (
-    <div className="flex w-screen bg-gray-50">
+    <div className="flex w-screen bg-white">
       <div className="mt-12 mx-auto w-full sm:w-3/4 md:w-3/4 lg:w-3/5 h-full">
         <h1 className="h text-center mb-3 mx-12">2022 Roadmap</h1>
         <Chrono
