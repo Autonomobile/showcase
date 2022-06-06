@@ -25,7 +25,7 @@ export const Brand = () => {
         </h2>
         <h2 className="mt-5">
           <a
-            href="https://github.com/Autonomobile/AutoPylot/raw/telemetry-server/ressources/first-presentation/project-report/project-report.pdf"
+            href="https://github.com/Autonomobile/AutoPylot/blob/main/ressources/final-presentation/project-report/project-report.pdf"
             className="underline text-blue-500 hover:text-blue-400 f"
           >
             Download Project Specifications
