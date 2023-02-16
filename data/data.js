@@ -19,7 +19,7 @@ const members = [
   },
   {
     name: "Mickaël Bobovitch",
-    bio: "Mickael Bobovitch is our web developer. Over 4 years of experience in web development and 1 year as entrepreneur in Email Marketing and Affiliation. CTO of GenWork.fr",
+    bio: "Mickael Bobovitch is our web developer. Over 4 years of experience in web development and 1 year as entrepreneur in Email Marketing and Affiliation.",
     src: "images/mickael-bobovitch.jpg",
     login: "mickael.bobovitch",
   },
